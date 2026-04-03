@@ -1,0 +1,20 @@
+1. The system shall allow users to add a new contact.
+2. The system shall allow users to update an existing contact.
+3. The system shall allow users to delete a contact.
+4. The system shall allow users to search contacts.
+5. The system shall store a contact’s first name.
+6. The system shall store a contact’s last name.
+7. The system shall store a contact’s company name.
+8. The system shall store a contact’s job title.
+9. The system shall allow a contact to have zero or more phone numbers.
+10. The system shall allow a contact to have zero or more email addresses.
+11. The system shall store each phone number with its value.
+12. The system shall store each phone number with a label.
+13. The system shall store each email address with its value.
+14. The system shall store each email address with a label.
+15. The system shall allow users to merge duplicate contacts.
+16. The system shall preserve all valid contact information when merging duplicate contacts.
+17. The system shall allow contacts to exist even if they do not have any phone numbers.
+18. The system shall allow contacts to exist even if they do not have any email addresses.
+19. The system shall allow labels such as home, mobile, and work for phone numbers.
+20. The system shall allow labels such as home, work, and other for email addresses.
